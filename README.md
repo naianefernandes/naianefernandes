@@ -3,6 +3,7 @@
 -  🤹🏻‍♀️ atualmete estou aprendendo como criar um  portifolio no github
 - 🏌🏻 passatempos escutar musica, ler mangas , assistir series entre outros
 
+![https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white
 <!---
 naianefernandes/naianefernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
