@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @naianefernandes
-- 👀 I’m interested in   pensamento computacional
-- 🌱 I’m currently learning como criar um portifólio no github
+ -👩🏻‍🎤  bão ,sou a naiane  meu nick é zero two me chame como quiser
+- 🧛🏻‍♀️  tenho interesse em pensamento computacional
+-  🤹🏻‍♀️ atualmete estou aprendendo como criar um  portifolio no github
+- 🏌🏻 passatempos escutar musica, ler mangas , assistir series entre outros
 
 <!---
 naianefernandes/naianefernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
